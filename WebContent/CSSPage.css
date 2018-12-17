@@ -1,0 +1,48 @@
+@charset "utf-8";
+.navbar-center{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);}
+.login-text{
+    padding-top: 10px; 
+    padding-bottom: 18px; 
+    font-size: 18px}
+body{
+	background-color: #30395c; 
+	height: 100%; 
+	overflow: hidden;}
+#first {
+    width: 20%;
+    float: left;
+    height: 95vh;
+    background-color: #5c3930;
+    color: white;}
+#second {
+    width: 80%;
+    float: left;
+    height: 95vh;
+    background-color: #5c4f30;
+    color: white;}
+.center{text-align: center}
+.right{text-align: right}
+.left{text-align: left}
+.justify{text-align: justify}
+.box{
+	height: 175px;
+	border: 2px solid black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-left: 14px;
+	margin-right: 14px;}
+.rowpad{
+	padding-top: 10px;
+	padding-bottom: 10px;}
+.pic{
+	width: 200px;
+	height: 150px;
+	float: Left;}
+.overflow{overflow: auto;}
+.Fixed{position:fixed;}
+	
