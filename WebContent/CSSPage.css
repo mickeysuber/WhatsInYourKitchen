@@ -8,21 +8,27 @@
     padding-bottom: 18px; 
     font-size: 18px}
 body{
-	background-color: #30395c; 
+	background-color: #003049; 
 	height: 100%; 
 	overflow: hidden;}
-#first {
+#left{
     width: 20%;
     float: left;
     height: 95vh;
-    background-color: #5c3930;
-    color: white;}
-#second {
+    background-color: #e2c391;
+    color: Brown;}
+#rightbottom {
     width: 80%;
     float: left;
     height: 95vh;
-    background-color: #5c4f30;
-    color: white;}
+    background-color: #e2c391;
+    color: Brown;}
+#righttop {
+    width: 80%;
+    float: left;
+    height: 100%;
+    background-color: #e2c391;
+    color: Brown;}
 .center{text-align: center}
 .right{text-align: right}
 .left{text-align: left}
